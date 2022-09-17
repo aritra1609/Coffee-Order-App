@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">কফি অর্ডার</string>
+    <string name="full_name">পুরো নাম</string>
+    <string name="email_id">ইমেইল আইডি</string>
+    <string name="toppings">টপিংস</string>
+    <string name="wipped_cream">হুইপড ক্রিমm</string>
+    <string name="chocolate">চকোলেট</string>
+    <string name="add_to_cart">কার্টে যোগ করুন</string>
+    <string name="order_summary">অর্ডার সারাংশ</string>
+    <string name="order">অর্ডার করুন</string>
+    <string name="lang">ভাষা</string>
+    <string name="msgtxt1">নাম:</string>
+    <string name="msgtxt2">অতিরিক্ত হুইপড ক্রিম:</string>
+    <string name="msgtxt3">অতিরিক্ত চকলেট:</string>
+    <string name="msgtxt4">পরিমাণ=</string>
+    <string name="msgtxt5">মোট=$</string>
+    <string name="msgtxt6">ধন্যবাদ</string>
+</resources>

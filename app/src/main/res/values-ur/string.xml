@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کافی آرڈر</string>
+    <string name="full_name">پورا نام</string>
+    <string name="email_id">ای میل کا پتہ</string>
+    <string name="toppings">ٹاپنگز</string>
+    <string name="wipped_cream">کریم</string>
+    <string name="chocolate">چاکلیٹ</string>
+    <string name="add_to_cart">ٹوکری میں شامل کریں</string>
+    <string name="order_summary">حکم کا خلاصہ</string>
+    <string name="order">ترتیب</string>
+    <string name="lang">بھاسا</string>
+    <string name="msgtxt1">نام:</string>
+    <string name="msgtxt2">کریم:</string>
+    <string name="msgtxt3">چاکلیٹ:</string>
+    <string name="msgtxt4">مقدار=</string>
+    <string name="msgtxt5">کل=$</string>
+    <string name="msgtxt6">شکریہ</string>
+</resources>

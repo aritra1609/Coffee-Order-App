@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कॉफी ऑर्डर</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="email_id">ईमेल आईडी</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="wipped_cream">फेंटी हुई मलाई</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="add_to_cart"></string>
+    <string name="order_summary">आदेश सारांश</string>
+    <string name="order">इसे खरीदेये</string>
+    <string name="lang">भाषा</string>
+    <string name="msgtxt1">नाम:"</string>
+    <string name="msgtxt2">अतिरिक्त व्हीप्ड क्रीम:</string>
+    <string name="msgtxt3">अतिरिक्त चॉकलेट:</string>
+    <string name="msgtxt4">मात्रा=</string>
+    <string name="msgtxt5">कुल=$</string>
+    <string name="msgtxt6">धन्यवाद</string>
+</resources>

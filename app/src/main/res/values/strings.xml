@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">COFFEE ORDER</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="toppings">Toppings</string>
+    <string name="wipped_cream">Wipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order">ORDER</string>
+    <string name="lang">LANG</string>
+    <string name="msgtxt1">Name:</string>
+    <string name="msgtxt2">Extra Whipped Cream:</string>
+    <string name="msgtxt3">Extra Chocolate:</string>
+    <string name="msgtxt4">Quantity=</string>
+    <string name="msgtxt5">Total=$</string>
+    <string name="msgtxt6">Thank You</string>
+</resources>
